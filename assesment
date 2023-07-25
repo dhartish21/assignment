@@ -1,2 +1,149 @@
-assesment.png
-assesment style.css
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.container1{
+    height: 575px;
+    background-size: cover;
+    justify-content: right;
+    background-image: url(img/laptop.png);
+
+    
+}
+.header{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    padding: 30px;
+    
+}
+.txtcenter{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+.title{
+    margin-left:75% ;
+    font-style: oblique;
+    color: blue;
+    font-size: larger;
+}
+.txtcont1{
+    margin-left:70% ;
+    margin-top: 20px;
+}
+
+
+
+
+
+.logo{
+    margin-top:2%;
+    margin-left: 30px;
+}
+.txtcont{
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+
+.container2{
+    display: flex;
+    margin-left: 140px;
+
+}
+.txtimg{
+
+}
+
+
+.title{
+    font-size: larger;
+    font-style: normal;
+    
+    
+    
+}
+.titletxt{
+    
+    margin-top: 20px;
+}
+.loremtxt{
+    margin-top: 50px;
+    font-size: medium;
+}
+
+    .txt2{
+        position: relative;
+        margin-left: 50px;
+    }
+    .icon{
+        margin-left: 110px;
+    }
+    
+    
+
+
+
+
+
+.title2{
+    
+    
+    margin-left:100px;
+    font-style: normal;
+}
+.titletxt2{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.lorem{
+    margin-top: 50px;
+    margin-left:100px ;
+}
+.container3{
+    height: 0pxs;
+    width: 429px;
+}
+.title1{
+    font-style: normal;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.img{
+    margin-left: 140px;
+    position:absolute;
+    justify-content:space-between;
+    
+}
+
+.title3{
+    font-style: normal;
+}
+.titletxt3{
+    margin-top: 50px;
+}
+.loremtxt2{
+    margin-top: 20px;
+}
+.img2{
+    margin-top:20px;
+}
+.titleinput{
+
+}
+.txt3{
+    margin-top: 50px;
+}
+.loremtxt3{
+    margin-top: 20px;
+}
+.loremtxt4{
+    margin-top: 20px;
+}
+
